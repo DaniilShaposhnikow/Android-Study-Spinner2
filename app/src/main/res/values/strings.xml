@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application3</string>
+
+    <string name="searchTelephone">Найти телефон</string>
+    <string name="nothing">Телефоны не найдены</string>
+
+    <string-array name="listOfNumber">
+        <item>Pixel API 29 </item>
+        <item>Samsung Galaxy A9</item>
+        <item>IPhone 13</item>
+        <item>Honor 10 lite</item>
+        <item>Xiaomi A3</item>
+    </string-array>
+</resources>
